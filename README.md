@@ -5,7 +5,7 @@
 
 This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=PjYWpd7xkaM)
+
 
 Features:
 
